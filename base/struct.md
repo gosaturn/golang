@@ -1,7 +1,7 @@
 ## 结构体初始化
 ```
 type Hello struct{
-  A int,
+  A int
   B string
 }
 
