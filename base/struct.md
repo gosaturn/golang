@@ -1,6 +1,6 @@
 ## 结构体初始化
 ```
-type struct Hello{
+type Hello struct{
   A int,
   B string
 }
